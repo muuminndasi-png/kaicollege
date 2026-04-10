@@ -1,0 +1,6 @@
+{
+  "name": "dev-keepalive",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

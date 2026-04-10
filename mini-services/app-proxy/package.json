@@ -1,0 +1,6 @@
+{
+  "name": "ichas-app-proxy",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
